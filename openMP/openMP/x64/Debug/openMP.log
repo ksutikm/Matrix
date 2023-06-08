@@ -1,0 +1,4 @@
+﻿  OPENMP.cpp
+C:\USERS\KSENIA\VISUALSTUDIO\OPENMP\OPENMP\OPENMP.cpp(20,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\USERS\KSENIA\VISUALSTUDIO\OPENMP\OPENMP\OPENMP.cpp(19): warning C4101: i: неиспользованная локальная переменная
+  OPENMP.vcxproj -> C:\USERS\KSENIA\VISUALSTUDIO\OPENMP\x64\Debug\OPENMP.exe
